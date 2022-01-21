@@ -15,7 +15,6 @@ def time():
     label.config(text=time_string)
     label.after(1000, time)
 
-# A lable to store the clock
 label = Label(root, font=("ds-digital", 80), background="black", foreground="cyan")
 label.pack(anchor="center")
 time()
