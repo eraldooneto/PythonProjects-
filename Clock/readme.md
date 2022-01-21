@@ -8,5 +8,5 @@ In this project, our goal is to create a simple clock, with hours, minutes, seco
 -  <b>tkinter and tkinter.ttk </b> modules - It is a standard Python interface to the Tk GUI toolkit shipped with Python. General purpose are: widgets, displays, buttons etc. 
 -  <b>tkinter Label:</b> It is a widget where you can display text or images. In our code, we used it to show the time (the time format is a string). 
 -  label.after(): used for update an interface after some time. 
--  For more, check the documentation here: https://docs.python.org/pt-br/3/library/tk.html
+-  For more about Tkinter, check the documentation here: https://docs.python.org/pt-br/3/library/tk.html
 
