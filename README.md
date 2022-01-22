@@ -1,6 +1,6 @@
 ## Python Projects - Puporse
 
-👨🏻‍💻🔭 I'm developing my coding habilities with some projects using this amazing language 🐍. Some are simple, others more complex. I'm trying to develop everything that takes my attention. Further, I intend to use Python to back-end in Web Development.   
+👨🏻‍💻🔭 I'm developing my coding habilities with some projects using this amazing language 🐍. Some are simple, others more complex. I'm trying to develop everything that takes my attention. Further, I intend to use Python for back-end in Web Development.   
 
 Feel free to take a look! Suggestions are welcome in this repository. 😊 
 
